@@ -3,6 +3,10 @@
 
 ##### [시연 동영상]
 https://www.youtube.com/watch?v=aikZXcpKetg&feature=youtu.be
+<br>
+
+##### [PPT]
+https://github.com/fakecan/Trigo_Chatbot/raw/master/Trigo-PPT.pptx
 <br><br><br>
 
 
