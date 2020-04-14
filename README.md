@@ -1,5 +1,11 @@
 ﻿# 자연어처리 여행 정보제공 챗봇 👓
 
+
+##### [시연 동영상]
+https://www.youtube.com/watch?v=aikZXcpKetg&feature=youtu.be
+<br><br><br>
+
+
 <center>
 <img style='float: left' src='Travel_Chatbot/src/img/main.PNG'>
 </center>
@@ -13,11 +19,6 @@
 <img style='float: left;' src='Travel_Chatbot/src/img/PCA1.PNG', width='500', height='500'>
 <img style='float: left;' src='Travel_Chatbot/src/img/PCA2.PNG', width='500', height='500'>
 </center>
-<br><br><br>
-
-
-##### [시연 동영상]
-https://www.youtube.com/watch?v=aikZXcpKetg&feature=youtu.be
 <br><br><br>
 
 
